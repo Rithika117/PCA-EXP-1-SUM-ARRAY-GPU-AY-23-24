@@ -1003,13 +1003,9 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-<img width="877" height="208" alt="Screenshot 2026-05-15 135724" src="https://github.com/user-attachments/assets/5528f246-b973-4e6e-98d2-6e591573f780" />
-
-<img width="843" height="212" alt="Screenshot 2026-05-15 135742" src="https://github.com/user-attachments/assets/f6e320c4-6ad1-426f-96be-5a2f2ead80f6" />
-
-<img width="873" height="223" alt="Screenshot 2026-05-15 140142" src="https://github.com/user-attachments/assets/1760896b-5759-4aa2-89c8-7f144e1a4aa8" />
-
-<img width="891" height="218" alt="Screenshot 2026-05-15 140150" src="https://github.com/user-attachments/assets/08ed3b40-ab8b-4eb7-9a0c-6f17f1115299" />
+<img width="1225" height="307" alt="image" src="https://github.com/user-attachments/assets/9dc86a49-13e2-46fe-8edf-71c81291460c" />
+<img width="1440" height="307" alt="image" src="https://github.com/user-attachments/assets/dd4b58fd-bb86-4d8a-af24-80d91b760620" />
+<img width="1440" height="307" alt="image" src="https://github.com/user-attachments/assets/1f3ce39a-05ac-4dd0-8d60-2ea20bf21992" />
 
 ## RESULT:
 
